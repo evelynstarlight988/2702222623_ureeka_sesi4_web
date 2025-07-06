@@ -70,6 +70,13 @@ export default function Navbar() {
           >
             Contact
           </Link>
+
+          <Link
+            href="/weather"
+            className="capitalize transition-colors hover:text-purple-400 text-white"
+          >
+            Weather
+          </Link>
           
         </div>
       </div>
