@@ -49,7 +49,7 @@ export default function Navbar() {
             Projects
           </Link>
 
-          <Link
+          {/* <Link
             href="/experience"
             className="capitalize transition-colors hover:text-purple-400 text-white"
           >
@@ -61,7 +61,7 @@ export default function Navbar() {
             className="capitalize transition-colors hover:text-purple-400 text-white"
           >
             Sertificate
-          </Link>
+          </Link> */}
           
 
           <Link
